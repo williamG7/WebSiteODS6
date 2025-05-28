@@ -3,19 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/style/style.css">
+    <link rel="stylesheet" href="./style/style.css">
     <title>Home</title>
 </head>
 <body>
     <div class="main_wrapper">
         <video autoplay muted loop>
             <source src="video/video_portada.mp4" type="video/mp4">
-            Tu navegador no soporta video HTML5.
         </video>
-
+        <div class="video_shadow"></div>
         <div class="contenido">
-            <h1>Agua</h1>
-            <p>El video de fondo no se detiene y te acompaña durante toda la navegación.</p>
+            <h1>Contaminación del agua en Cataluña.</h1>
+            <p>¿A qué afecta y cómo se soluciona?</p>
         </div>
     </div>
     <header>
@@ -26,15 +25,191 @@
         <nav>
             <ul>
                 <li>ODS 6</li>
-                <li>Problemas</li>
-                <li>Analisi</li>
+                <li>Problema</li>
+                <li>Analisis</li>
                 <li>Solucion</li>
+                <li>Datasets</li>
             </ul>
         </nav>
     </header>
 
-    <p>sfbjsdñib</p>
-   
+    <section class="sobre_ods">
+        <p class="titulos">ODS 6</p>
+        <div class="conteiner_ods">
+            <img src="./images/ods6_img.png" alt="">
+            <div class="conteiner_ods_p">
+                <p>El ODS 6 aspira a garantizar que todo el mundo disponga de agua potable y saneamiento, centrándose en la gestión sostenible de los recursos hídricos, las aguas residuales y los ecosistemas, y reconociendo la importancia de que exista un entorno propicio.</p>
+            </div>
+        </div>
+    </section>
+  
+
+    <section class="dataset_section">
+        <p class="titulos">DataSets</p>
+       
+        <div class="timeline-container">
+            <div class="timeline-line"></div>
+            <div class="timeline-item left">
+              <div class="timeline-card">
+                <h3>Vertidos.csv</h3>
+                <p>Información sobre vertidos de aguas residuales y otros tipos de descargas.</p>
+                <a href="">Link</a>
+              </div>
+              <div class="timeline-dot"></div>
+            </div>
+      
+            <div class="timeline-item right">
+              <div class="timeline-dot"></div>
+              <div class="timeline-card">
+                <h3>Residus_recollida.csv</h3>
+                <p>Información sobre la recogida de residuos y su tratamiento.</p>
+                <a href="">Link</a>
+              </div>
+            </div>
+      
+            <div class="timeline-item left">
+              <div class="timeline-card">
+                <h3>Estadistiques.csv</h3>
+                <p>Estadísticas sobre la generación y gestión de residuos a nivel municipal.</p>
+                <a href="">Link</a>
+              </div>
+              <div class="timeline-dot"></div>
+            </div>
+      
+            <div class="timeline-item right">
+              <div class="timeline-dot"></div>
+              <div class="timeline-card">
+                <h3>EstacionsRegeneracio.csv</h3>
+                <p>Información sobre las estaciones de regeneración de agua.</p>
+                <a href="">Link</a>
+              </div>
+            </div>
+
+            <div class="timeline-item left">
+                <div class="timeline-card">
+                  <h3>Embalses.csv</h3>
+                  <p>Información sobre los embalses.</p>
+                  <a href="">Link</a>
+                </div>
+                <div class="timeline-dot"></div>
+              </div>
+          </div>
+    </section>
+
+
+    <section class="problema_section">
+        <p class="titulos">Problema</p>
+        <div class="container">
+            <div class="box">
+                <p>Gestión insostenible del agua en un contexto de escasez y contaminación hídrica</p>
+            </div>
+            <div class="box">
+                <p>Falta de fuentes naturales de agua</p>
+            </div>
+            <div class="box">
+                <p>Falta de eficiencia en la reutilización del agua</p>
+            </div>
+            <div class="box">
+                <p>Contaminación masiva del agua</p>
+            </div>
+        </div>
+
+
+        <div class="div_problema">
+            <div>
+                <p class="titulo_analisis">Análisis de la situación del agua en Cataluña</p>
+            </div>
+            
+            <p>1. Análisis diario del agua regenerada y el consumo de agua potable en Cataluña ¿Qué volumen de agua regenerada se produce diariamente en Cataluña?
+                ¿Cuál es el consumo diario promedio de agua potable?</p>
+                <p>¿Cuál es el consumo medio de agua per cápita? ¿Cómo ha evolucionado este consumo a lo largo del tiempo?</p>
+            <p>Acceso al agua potable y al saneamiento</p>
+            (Información sobre Estadísticas:
+            Gráficos que muestren la evolución del consumo de agua per cápita a lo largo del tiempo: Visualizar tendencias y patrones en el consumo de agua.
+            Gráficos que muestren la evolución de la producción de aguas residuales a lo largo del tiempo: Visualizar tendencias y patrones en la producción de aguas residuales.
+            Tabla con los datos de población, consumo de agua y producción de aguas residuales por año: Permitir a los usuarios consultar datos específicos.)
+
+            <p>2. capaidad de almacenamiento de agua en embalses de cataluña</p>
+            Cuál es la capacidad total de almacenamiento de agua en los embalses? ¿Cuál es el volumen medio de agua almacenada?
+            ¿Cómo se distribuye el agua almacenada entre los distintos embalses? ¿Cómo ha evolucionado el volumen almacenado a lo largo del tiempo?
+            ¿Cuál es el porcentaje de ocupación de los embalses? ¿Hay embalses cercanos a su capacidad máxima o mínima?(colab)
+
+            Información sobre Embalses:
+            Mapa interactivo con la ubicación de los embalses: Mostrar la distribución geográfica de los embalses.
+            Tabla con la información de cada embalse: Incluir nombre, capacidad, volumen actual y coordenadas.
+            Gráficos que muestren la evolución del volumen de agua almacenada en los embalses a lo largo del tiempo: Visualizar tendencias y patrones en el almacenamiento de agua.
+           
+           
+        </div>
+
+        <div class="div_problema">
+            <div >
+                <p class="titulo_analisis">Análisis de la contaminación del agua y la gestión de residuos en Cataluña</p>
+            </div>
+            
+            <p>Análisis de las zonas más afectadas por vertidos en Cataluña</p>
+            <p>Análisis de los municipios con mayor generación de residuos en Cataluña</p>
+            Información sobre Vertidos:(colab)
+            Información sobre Recogida de Residuos:
+            ¿Cuántos vertidos se han registrado en total durante un período específico (día, semana, mes)? ¿Cuál es la tendencia a lo largo del tiempo?
+            Cuál es el tipo de contaminante más frecuente en los vertidos? ¿Dónde se concentran los vertidos con mayor impacto ambiental?
+            ¿Cómo varía la frecuencia de los vertidos según la zona geográfica? ¿Existen zonas con mayor riesgo de contaminación?
+
+            <p>Contaminación del agua</p>
+            <p>Contaminación por plásticos: </p>
+            <p>Contaminación por aguas residuales: </p>
+            <p>Contaminación por productos químicos industriales:</p>
+        </div>
+
+        <div class="div_problema">
+            <div>
+                <p class="titulo_analisis">Reciclaje de agua y tecnologías para mejorar la eficiencia hídrica en Cataluña</p>
+            </div>
+            Información sobre Estaciones de Regeneración:
+            Mapa interactivo con la ubicación de las estaciones de regeneración: Mostrar la distribución geográfica de las estaciones.
+            Tabla con la información de cada estación: Incluir nombre, capacidad, tecnología y coordenadas.
+            Gráficos que muestren la capacidad total de regeneración por zona: Visualizar la distribución de la capacidad de regeneración.
+            <p>3. Eficiencia en el uso del agua</p>
+            <p>tecnologias utilizadas para el regeneramiento de aguas</p>
+            <p>Reciclaje de agua:</p>
+            <p>Desalinización:</p>
+
+            ¿Cuál es la capacidad total de regeneración de agua de las estaciones? ¿Cómo se distribuye esta capacidad por zona geográfica?
+            ¿Cuál es la tecnología de regeneración más utilizada? ¿Cuál es la eficacia de las estaciones en la mejora de la calidad del agua?
+            ¿Qué impacto tienen las estaciones de regeneración en la calidad del agua y en la reducción de la contaminación?
+
+        </div>
+
+
+
+
+  
+        
+    </section>
+
+
+    
+        
+
+
+    <section class="conclucion_section">
+        <p class="titulos">Conclucion</p>
+        <p class="text_conclucion">¿Cómo podría optimizarse el uso del agua regenerada para reducir la dependencia del agua potable convencional?
+            Políticas y medidas adoptadas
+            Cataluña ha tomado varias medidas para afrontar los desafíos en relación al agua, algunas de las cuales incluyen:
+            
+            Planificación hidrológica: Cataluña tiene planes de gestión del agua, como los planes hidrológicos de cuenca, que buscan gestionar de forma sostenible los recursos hídricos y proteger la calidad del agua.
+            
+            Legislación y regulaciones: Existen leyes y regulaciones específicas para controlar la contaminación del agua, como la Ley de Aguas de Cataluña, que establece normas para la protección de las aguas y su uso racional.
+            
+            Incentivos para la eficiencia del agua: Se han implementado incentivos para que la industria y la agricultura utilicen tecnologías más eficientes en el uso del agua, como sistemas de riego de precisión y tratamientos avanzados de aguas residuales.
+            
+            Educación y concienciación: Se están llevando a cabo programas de sensibilización para promover un uso responsable del agua y la reducción de la contaminación por plásticos.</p>
+    </section>
+
+    <section class="titulos">
+        <p>primeros dos puntos</p>
+    </section>
     
 </body>
 </html>
