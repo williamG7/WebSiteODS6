@@ -1,0 +1,2122 @@
+[
+  {
+    "ID": "R001",
+    "Nom": "Aerosols",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Alumini reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R002",
+    "Nom": "Agulles cosir",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R003",
+    "Nom": "Ampolla de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Opta per envasos grans"
+  },
+  {
+    "ID": "R004",
+    "Nom": "Ampolla de vidre",
+    "ON VA?": "Vidre (verd)",
+    "PROCÉS 1": "Planta de triatge: Vidre",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Reutilitza les ampolles de vidre"
+  },
+  {
+    "ID": "R005",
+    "Nom": "Auriculars",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R006",
+    "Nom": "Baieta",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R007",
+    "Nom": "Bastonets de les orelles",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R008",
+    "Nom": "Bateria de cotxe",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plom",
+    "EN QUÈ ES TRANSFORMA 2": "Carcasses reciclades",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R009",
+    "Nom": "Bijuteria i complements",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R010",
+    "Nom": "Bolígrafs",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Utilitza bolígrafs de tinta recarregable"
+  },
+  {
+    "ID": "R011",
+    "Nom": "Bolquers, compreses, tampons",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Optar per bolquers reutilitzables pot implicar una reducció de residus de més de 1.000 kg per família a l’any, i fins a 1.000 € anuals d’estalvi."
+  },
+  {
+    "ID": "R012",
+    "Nom": "Bombeta de baix consum",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Mercuri reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "Alumini reciclat",
+    "CONSELL DE PREVENCIÓ": "Evitar el seu trencament"
+  },
+  {
+    "ID": "R013",
+    "Nom": "Bombeta de filament",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "R014",
+    "Nom": "Bossa aperitiu",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Safata Alumini",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R015",
+    "Nom": "Bossa de paper o cartró",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Reutilitza les bosses que puguis."
+  },
+  {
+    "ID": "R016",
+    "Nom": "Bossa de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Bosses de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Substitueix les bosses de plàstic per bosses reutilitzables, cistell o carro de la compra"
+  },
+  {
+    "ID": "R017",
+    "Nom": "Bric",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Alumini reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "Plàstic",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R018",
+    "Nom": "Cafè (càpsules)",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Safata Alumini",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R019",
+    "Nom": "Cafè (filtre)",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R020",
+    "Nom": "Cafè (marro)",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "R021",
+    "Nom": "Calçat",
+    "ON VA?": "Contenidor  Roba",
+    "PROCÉS 1": "Triatge de roba",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Roba",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R022",
+    "Nom": "Capsa de cartró",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R024",
+    "Nom": "Capsa de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Caixes de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R025",
+    "Nom": "Capsa de puros",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Combustible",
+    "EN QUÈ ES TRANSFORMA 2": "Conglomerat",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R026",
+    "Nom": "Cassola",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Peces automoció",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R027",
+    "Nom": "CD's/DVD's",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Policarbonat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R028",
+    "Nom": "Cendrer de plàstic",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R029",
+    "Nom": "Cendrer de porcellana",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R030",
+    "Nom": "Cendrer de vidre",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+  },
+  {
+    "ID": "R031",
+    "Nom": "Cera",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R032",
+    "Nom": "Cistell o cabàs",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Incineradora",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Per anar a comprar, podem portar el cabàs per estalviar bosses de plàstic, adquirir productes a granel, escollir envasos de gran capacitat i productes concentrats, i rebutjar embolcalls innecessaris."
+  },
+  {
+    "ID": "R033",
+    "Nom": "Clips metàl·lics",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R034",
+    "Nom": "Closques",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R035",
+    "Nom": "Coberts",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Metall reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R036",
+    "Nom": "Cordons de sabata",
+    "ON VA?": "Contenidor  Roba",
+    "PROCÉS 1": "Triatge de roba",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Roba",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R037",
+    "Nom": "Cotó fluix",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R038",
+    "Nom": "Desodorant amb roll-on",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstics",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R039",
+    "Nom": "Diari",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R040",
+    "Nom": "Disc de vinil",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Incineradora",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R041",
+    "Nom": "Draps",
+    "ON VA?": "Contenidor  Roba",
+    "PROCÉS 1": "Triatge de roba",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Roba",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R042",
+    "Nom": "Embolcalls de film i plata",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Safata Alumini",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Utilitza la carmanyola per a portar l’entrepà o algun tipus d’embolcall reutilitzable"
+  },
+  {
+    "ID": "R043",
+    "Nom": "Escuradents de fusta",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R044",
+    "Nom": "Espiral llibreta",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Metall reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R045",
+    "Nom": "Etiqueta adhesiva",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R046",
+    "Nom": "Etiqueta de paper",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R047",
+    "Nom": "Excrements",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R048",
+    "Nom": "Fibrociment amb amiant",
+    "ON VA?": "Deixalleries especifiques",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "-",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Aquest material representa un risc per la salut. NO EL MANIPULIS NI L’ESMICOLIS."
+  },
+  {
+    "ID": "R049",
+    "Nom": "Flors",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "R050",
+    "Nom": "Fluorescent",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Mercuri reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "Alumini reciclat",
+    "CONSELL DE PREVENCIÓ": "Evitar el seu trencament"
+  },
+  {
+    "ID": "R051",
+    "Nom": "Fotos",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R052",
+    "Nom": "Fulls de paper",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Reutilitza el paper imprès a una sola cara per prendre notes o imprimir esborranys. Imprimeix els documents a doble cara i només quan realment sigui necessari."
+  },
+  {
+    "ID": "R053",
+    "Nom": "Galleda",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Metall",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R054",
+    "Nom": "Gerro ceràmica",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R055",
+    "Nom": "Gespa",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "R056",
+    "Nom": "Goma esborrar",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R057",
+    "Nom": "Got de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Bosses de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Pots optar per l’ús de gots reutilitzables"
+  },
+  {
+    "ID": "R058",
+    "Nom": "Got de vidre trencat",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R059",
+    "Nom": "Infusions (bossetes)",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "R060",
+    "Nom": "Iogurt  de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Bosses de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R061",
+    "Nom": "Iogurt de vidre",
+    "ON VA?": "Vidre (verd)",
+    "PROCÉS 1": "Planta de triatge: Vidre",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Reutilitza els pots"
+  },
+  {
+    "ID": "R062",
+    "Nom": "Joguines",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar-les pensa si algú les pot aprofitar"
+  },
+  {
+    "ID": "R063",
+    "Nom": "Llapis",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R064",
+    "Nom": "Llaunes fèrriques",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Metalls",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R065",
+    "Nom": "Llima d’ungles",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R066",
+    "Nom": "Llumins de fusta",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "Triatge roba",
+    "Nom": "C2_triatge_roba",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "R067",
+    "Nom": "Mànega",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R068",
+    "Nom": "Maquineta d’afaitar",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R069",
+    "Nom": "Maquineta fer punta",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R070",
+    "Nom": "Matalàs",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Metall reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "Filtres industrials",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R071",
+    "Nom": "Medicaments",
+    "ON VA?": "Medicaments",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "Medicament processat",
+    "CONSELL DE PREVENCIÓ": "Els medicament caducats o fora d’ús no es poden llençar mai per l’aigüera ni al vàter, ja que contenen principis actius que poden causar un greu risc per a la salut de les persones i del medi ambient"
+  },
+  {
+    "ID": "R072",
+    "Nom": "Mirall",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Vidre pla",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R073",
+    "Nom": "Mitges",
+    "ON VA?": "Contenidor  Roba",
+    "PROCÉS 1": "Triatge de roba",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Roba",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Evita llençar la roba directament a les escombraries. Si el material està fet malbé, és millor portar-lo a un Punt Verd o a una deixalleria. Si la roba o els complements es troben en bon estat, dipositem-los a un contenidor específic de roba, o donar-ho a persones que en puguin fer un nou ús."
+  },
+  {
+    "ID": "R074",
+    "Nom": "Mòbil i accessoris",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Carcasses",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar-lo pensa si encara es pot reparar o algú el pot utilitzar."
+  },
+  {
+    "ID": "R075",
+    "Nom": "Moble de fusta",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Conglomerat",
+    "EN QUÈ ES TRANSFORMA 2": "Combustible",
+    "CONSELL DE PREVENCIÓ": "La fusta que portem a la deixalleria és un 99% valoritzable."
+  },
+  {
+    "ID": "R076",
+    "Nom": "Nevera",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Ferro",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+  },
+  {
+    "ID": "R077",
+    "Nom": "Oli de cotxe",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Oli motor",
+    "EN QUÈ ES TRANSFORMA 2": "Plàstic",
+    "CONSELL DE PREVENCIÓ": "És millor retirar l’oli en llocs especialitzats per evitar problemes de contaminació."
+  },
+  {
+    "ID": "R078",
+    "Nom": "Oli de cuina",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Biodièsel",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Evitar llençar-lo a l’aigüera o pel vàter. A casa nostra hi ha una forta tradició de fer sabó natural amb l’oli de cuina fora d’ús."
+  },
+  {
+    "ID": "R079",
+    "Nom": "Ordinador",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Carcasses",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar-lo pensa si pots reparar-lo o ampliar les seves prestacions tot incorporant-hi nous complements."
+  },
+  {
+    "ID": "R080",
+    "Nom": "Paella",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Alumini reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R081",
+    "Nom": "Pal d'escombra",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R082",
+    "Nom": "Pal de fregar",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R083",
+    "Nom": "Palleta",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R084",
+    "Nom": "Paper magdalenes",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R085",
+    "Nom": "Paper plastificat",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R086",
+    "Nom": "Penjador de plàstic",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Caixes de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R087",
+    "Nom": "Petits aparells elèctrics i electrònics",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Ferro",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+  },
+  {
+    "ID": "R088",
+    "Nom": "Piles",
+    "ON VA?": "Contenidors Piles",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Piles reciclades",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Utilitzeu piles recarregables"
+  },
+  {
+    "ID": "R089",
+    "Nom": "Pintura",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Alumini reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Eviteu que aquests residus arribin al medi contaminant aigües i sòls. Opta sempre que puguis per pintures ecològiques, amb base aquosa, ja que són molt menys contaminants quan esdevenen residu."
+  },
+  {
+    "ID": "R090",
+    "Nom": "Pinyols",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R091",
+    "Nom": "Pinzell brut",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Eviteu que aquest residus arribin al medi contaminant aigües i sòls."
+  },
+  {
+    "ID": "R092",
+    "Nom": "Plats trencats",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar-los pensa si algú els pot aprofitar."
+  },
+  {
+    "ID": "R093",
+    "Nom": "Pneumàtic",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Pneumàtic",
+    "EN QUÈ ES TRANSFORMA 2": "Metall",
+    "CONSELL DE PREVENCIÓ": "El canvi dels pneumàtics en tallers especialitzats garanteix una bona gestió ambiental d’aquests residus"
+  },
+  {
+    "ID": "R094",
+    "Nom": "Pols d’escombrar",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R095",
+    "Nom": "Porró vidre",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R096",
+    "Nom": "Pot de vidre",
+    "ON VA?": "Vidre (verd)",
+    "PROCÉS 1": "Planta de triatge: Vidre",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R097",
+    "Nom": "Precinte adhesiu",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R098",
+    "Nom": "Precinte ampolles vi i cava",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Safata Alumini",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R099",
+    "Nom": "Preservatiu",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R100",
+    "Nom": "Puntes de cigarret",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R101",
+    "Nom": "Radiografia",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plata",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R102",
+    "Nom": "Raspall de dents",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R103",
+    "Nom": "Rentadora",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "Ferro",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+  },
+  {
+    "ID": "R104",
+    "Nom": "Restes de menjar",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà."
+  },
+  {
+    "ID": "R105",
+    "Nom": "Revista",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Reaprofita el paper de les revistes per a embolcalls, per a protegir el paviment, etc."
+  },
+  {
+    "ID": "R106",
+    "Nom": "Roba",
+    "ON VA?": "Contenidor  Roba",
+    "PROCÉS 1": "Triatge de roba",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Roba",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Evita llençar la roba directament a les escombraries. Si el material està fet malbé, és millor portar-lo a un Punt Verd o a una deixalleria. Si la roba o els complements es troben en bon estat, dipositem-los a un contenidor específic de roba, o donar-ho a persones que en puguin fer un nou ús."
+  },
+  {
+    "ID": "R107",
+    "Nom": "Rodet de fotografies",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Carcasses",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R108",
+    "Nom": "Runa (obra menor)",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Evita abocaments incontrolats"
+  },
+  {
+    "ID": "R109",
+    "Nom": "Aliment malmès en safata",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R110",
+    "Nom": "Safates de porexpan",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Porexpan",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Compra a granel. Procura comprar aliments que no estiguin sobre-envasats"
+  },
+  {
+    "ID": "R111",
+    "Nom": "Sobre de paper",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R112",
+    "Nom": "Sorra de gat",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R113",
+    "Nom": "Tapes de pot",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Metalls",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R114",
+    "Nom": "Taps de plàstic",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Cubells de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R115",
+    "Nom": "Taps de suro",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Si tens un jardí, un hort o un pati gran amb plantes, pots fer el teu compost casolà"
+  },
+  {
+    "ID": "R116",
+    "Nom": "Taps metàl·lics",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Metalls",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R117",
+    "Nom": "Televisió",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Carcasses",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar un electrodomèstic pensa si pots reparar-lo."
+  },
+  {
+    "ID": "R118",
+    "Nom": "Termòmetre de mercuri",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Mercuri reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "No comprar termòmetres que continguin mercuri (des d’abril de 2009 s’ha prohibit la venda d’instruments de medició que portin mercuri per la seva perillositat vers la salut i el medi)."
+  },
+  {
+    "ID": "Energia Elèctrica",
+    "Nom": "C4_electricitat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Compostatge / Adob: Planteta / Camps conreu",
+    "Nom": "C4_compost",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "R119",
+    "Nom": "Terra plantes",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "Els tòners són residus especials que requereixen un tractament específic per no malmetre el medi ambient. Per tant, cal que els recollim de manera separada  portant-los a la deixalleria o dipositant-los als contenidors específics dels punts de venda."
+  },
+  {
+    "ID": "R120",
+    "Nom": "Test ceràmica",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R121",
+    "Nom": "Test de plàstic",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Planta de reciclatge",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R122",
+    "Nom": "Tòner",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Toners",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R123",
+    "Nom": "Tovalló paper brut",
+    "ON VA?": "Fracció orgànica (marró)",
+    "PROCÉS 1": "Planta de digestió anaeròbia",
+    "PROCÉS 2": "Planta de compostatge",
+    "EN QUÈ ES TRANSFORMA 1": "Compost",
+    "EN QUÈ ES TRANSFORMA 2": "Electricitat",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R124",
+    "Nom": "Tub de dentifrici",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Cubells de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R125",
+    "Nom": "Tub de PVC",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "PVC",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "C3",
+    "Nom": "",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Digestors + Biogas",
+    "Nom": "C3_digestor",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "R126",
+    "Nom": "Ulleres",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Abans de llençar les ulleres que ja no utilitzes, pensa si es poden reutilitzar. Existeixen ONG i algunes òptiques encarregades de realitzar campanyes de recollida i gestió."
+  },
+  {
+    "ID": "R127",
+    "Nom": "Vernís",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Metalls",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Opta sempre que puguis pels vernissos ecològics, elaborats a partir de substàncies naturals com la trementina o la pell de taronja, molt menys contaminants en esdevenir residu."
+  },
+  {
+    "ID": "R128",
+    "Nom": "Vidre pla",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre pla",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+  },
+  {
+    "ID": "R129",
+    "Nom": "Vidre de marc de fotos",
+    "ON VA?": "Deixalleria / Punt Verd",
+    "PROCÉS 1": "Empresa especialitzada",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre pla",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+  },
+  {
+    "ID": "R131",
+    "Nom": "Xarxa de fruita",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Bosses de plàstic",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "Per diferències en la composició d’aquest vidre és millor no barrejar-lo amb el vidre dels envasos."
+  },
+  {
+    "ID": "R132",
+    "Nom": "Xiclet",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R133",
+    "Nom": "Xinxeta",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "-",
+    "EN QUÈ ES TRANSFORMA 1": "Monodipòsit",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R134",
+    "Nom": "Xumet",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R135",
+    "Nom": "Caixa de fusta petita (per a la fruita més delicada)",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Fabricant",
+    "EN QUÈ ES TRANSFORMA 1": "Combustible",
+    "EN QUÈ ES TRANSFORMA 2": "Conglomerat",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R136",
+    "Nom": "Capsa de sabates",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R137",
+    "Nom": "Capsa de cereals",
+    "ON VA?": "Paper i cartró (blau)",
+    "PROCÉS 1": "Planta de triatge de paper i cartró",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Paper reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R138",
+    "Nom": "Flascó de vidre",
+    "ON VA?": "Vidre (verd)",
+    "PROCÉS 1": "Planta de triatge: Vidre",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Vidre reciclat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R139",
+    "Nom": "Tovalloletes humides",
+    "ON VA?": "Fracció resta (gris)",
+    "PROCÉS 1": "Planta de triatge: Resta",
+    "PROCÉS 2": "Incineradora",
+    "EN QUÈ ES TRANSFORMA 1": "Electricitat",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "R140",
+    "Nom": "Cartutxos de cera depilatòria",
+    "ON VA?": "Envàs lleuger (groc)",
+    "PROCÉS 1": "Planta de triatge d'envasos",
+    "PROCÉS 2": "Planta de reciclatge",
+    "EN QUÈ ES TRANSFORMA 1": "Plàstics",
+    "EN QUÈ ES TRANSFORMA 2": "-",
+    "CONSELL DE PREVENCIÓ": "-"
+  },
+  {
+    "ID": "ID",
+    "Nom": "Nom",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/01",
+    "Nom": "Fracció orgànica (marró-taronja)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/02",
+    "Nom": "Envàs lleuger (groc)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/03",
+    "Nom": "Envàs vidre (verd)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/04",
+    "Nom": "Paper i cartró (blau)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/05",
+    "Nom": "Rebuig (gris)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/06",
+    "Nom": "Piles i acumuladors (comerços)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/07",
+    "Nom": "Medicaments (farmàcies)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/08",
+    "Nom": "Deixalleria / Punt Verd (vermell)",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/09",
+    "Nom": "Especial",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1/10",
+    "Nom": "Roba (blanc)",
+    "ON VA?": "Nom il·lustració",
+    "PROCÉS 1": "Nom Imatge",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C1",
+    "Nom": "",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Fracció orgànica (marró-taronja)",
+    "Nom": "C1_cont_organica",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envàs lleuger (groc)",
+    "Nom": "C1_cont_envas",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envàs vidre (verd)",
+    "Nom": "C1_cont_vidre",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Paper i cartró (blau)",
+    "Nom": "C1_cont_paper",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Rebuig (gris)",
+    "Nom": "C1_cont_resta",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Piles i acumuladors (comerços)",
+    "Nom": "C1_cont_piles",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Medicaments (farmàcies)",
+    "Nom": "C1_cont_farmac",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Deixalleria / Punt Verd (vermell)",
+    "Nom": "C1_deixalleria",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Especial",
+    "Nom": "C1_empresa_fibrociment",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Roba (blanc)",
+    "Nom": "C1_cont_roba",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "C2",
+    "Nom": "",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Ecoparc",
+    "Nom": "C2_ecoparc",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Planta Triatge Envasos",
+    "Nom": "C2_planta_triatge_envas",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Planta Triatge Paper cartró",
+    "Nom": "C2_planta_triatge_paper",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Planta Triatge Vidre",
+    "Nom": "C2_planta_triatge_vidre",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Planta Triatge Resta",
+    "Nom": "C2_planta_triatge_resta",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Empreses especialitzades",
+    "Nom": "C2_emp_especialitzada",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Fabricant: Fabriqueta",
+    "Nom": "C3_fabricant",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Planta Reciclatge",
+    "Nom": "C3_planta_reciclatge",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Incineradora",
+    "Nom": "C3_incineradora",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "RESULTATS C4",
+    "Nom": "",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Monodipòsit controlat",
+    "Nom": "C4_monodiposit",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Combustible per a calderes (Caldera)",
+    "Nom": "C4_combustible",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Conglomerats per a mobles (Mobles)",
+    "Nom": "C4_conglomerat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Altres envasos i ampolles de vidre.",
+    "Nom": "C4_vidre_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envasos de plàstic",
+    "Nom": "C4_envasos_nous_plastic",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Piles, Acer inoxidable, Altaveus per a equips de música, aparell electrònic",
+    "Nom": "C4_piles_reciclades",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Llingots de plom.",
+    "Nom": "C4_plom",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Bosses de plàstic, film, teles asfàltiques.",
+    "Nom": "C4_plastic_bosses",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Miralls, finestres",
+    "Nom": "C4_nou_vidre_pla",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Paquets de fulls, cartró per a envasos, revistes i diaris, paper d'embalar, caixes de cartró.",
+    "Nom": "C4_paper_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envasos d'alumini, peces d'automoció, perfils de finestres, senyals trànsit.",
+    "Nom": "C4_alumini_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Safates d'alumini, envasos.",
+    "Nom": "C4_safata_alumini_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envasos, samarretes esportives, tubs.",
+    "Nom": "C4_plastic_samarretes",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Caixes de plàstic, penjadors, tubs.",
+    "Nom": "C4_plastic_caixes",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envasos, cubells, tubs.",
+    "Nom": "C4_plastic_cubell",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Envasos, peces automoció, material construcció, eines.",
+    "Nom": "C4_ferric_construccio",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Embalatges de porexpan, planxes aïllants.",
+    "Nom": "C4_porexpan_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Piles, bombetes, termómetres.",
+    "Nom": "C4_mercuri_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Tancaments, articles per a l' automoció",
+    "Nom": "C4_peces_automocio",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Peces d'automòbil, enllumenat públic, carcasses de mòbils, d'ordinadors.",
+    "Nom": "C4_carcasses_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Peces de policarbonat: CD, pantalles cascos",
+    "Nom": "C4_policarbonat_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Articles de vidre que no son envasos.",
+    "Nom": "C4_vidre_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Articles de metalls que no son envasos.",
+    "Nom": "C4_metall_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Objectes d'alumini.",
+    "Nom": "C4_alumini_reciclat_objectes",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Objectes de plàstic per a mobiliari urbà, objectes de plàstic.",
+    "Nom": "C4_plastic_reciclat_urba",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Objectes metàl·lics.",
+    "Nom": "C4_metall_reciclat_objectes",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Objectes de plàstic (joguines).",
+    "Nom": "C4_plastic_reciclat_objectes",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Plata Rajos X, Material fotogràfic",
+    "Nom": "C4_plata_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Medicaments processats",
+    "Nom": "C4_medicament_processat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Oli motor",
+    "Nom": "C4_oli_motor",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Farines i greixos alimentació animal, biogàs",
+    "Nom": "C4_aliment_animal_biogas",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Pneumàtics, rajples parcs infantils, camps de gespa artificial, soles de sabata,jardineres o asfalt per a carreteres.",
+    "Nom": "C4_pneumatic_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Tóners i càpsules per a impressores",
+    "Nom": "C4_toners_tinta",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Tubs, materials construcció, soles sabates",
+    "Nom": "C4_pvc_reciclat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "La recollida selectiva de la roba que dipositem al contenidor dóna feina a col•lectius desfavorits, aglutinats per empreses d’inserció social.",
+    "Nom": "C4_roba_solidaritat",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  },
+  {
+    "ID": "Elements aïllants, filtres industrials.",
+    "Nom": "C4_filtre_industrial",
+    "ON VA?": "",
+    "PROCÉS 1": "",
+    "PROCÉS 2": "",
+    "EN QUÈ ES TRANSFORMA 1": "",
+    "EN QUÈ ES TRANSFORMA 2": "",
+    "CONSELL DE PREVENCIÓ": ""
+  }
+]
