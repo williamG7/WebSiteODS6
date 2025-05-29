@@ -218,11 +218,37 @@
                 Estos vertidos, en muchos casos, alcanzan el sistema hidrológico y pueden contaminar acuíferos o afectar
                 directamente la calidad del agua superficial, lo cual representa un riesgo ambiental importante.
             </p>
+
             <p>Contaminación del agua</p>
             <p>Contaminación por plásticos: </p>
             <p>Contaminación por aguas residuales: </p>
             <p>Contaminación por productos químicos industriales:</p>
         </div>
+        <!-- Después del fragmento que mencionaste -->
+        <div class="div_problema">
+            <div>
+                <p class="titulo_analisis">Mapa de Vertidos Peligrosos en Cataluña</p>
+            </div>
+            <div id="map" style="height: 500px; width: 100%; margin: 20px 0; border-radius: 8px;"></div>
+        </div>
+
+        <!-- Incluir Leaflet CSS y JS -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+        <!-- Incluir tu archivo JS -->
+        <script src="mapaVertidos.js"></script>
+        
+        <h2>Quantitats totals per tipus de residu</h2>
+        <div class="chart-container">
+            <canvas id="residuosChart"></canvas>
+        </div>
+
+        <!-- Incluir Chart.js -->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+        <!-- Incluir nuestro script -->
+        <script src="graficoResiduos.js"></script>
 
         <div class="div_problema">
             <div>

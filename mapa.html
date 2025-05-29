@@ -1,46 +1,92 @@
 <!DOCTYPE html>
-<html lang="ca">
+<html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <title>Mapa de Vertidos</title>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <style>
-    #map {
-      height: 100vh;
-      width: 100%;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <title>Gráfico de Residuos</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
-  <div id="map"></div>
+  <h2>Quantitats totals per tipus de residu</h2>
+  <canvas id="residuosChart" width="1000" height="600"></canvas>
 
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <script>
-    const map = L.map("map").setView([41.3851, 2.1734], 8); // Centre en Catalunya
+    async function cargarDatos() {
+      try {
+        const response = await fetch("http://localhost:3000/estadistiques");
+        const datos = await response.json();
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution:
-        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-    }).addTo(map);
+        // Lista de tipos de residuos a graficar
+        const tiposResiduos = [
+          'Autocompostatge', 'Matèria orgànica', 'Poda i jardineria', 'Paper i cartró',
+          'Vidre', 'Envasos lleugers', 'Residus voluminosos + fusta', 'RAEE',
+          'Ferralla', 'Olis vegetals', 'Tèxtil', 'Runes',
+          'Residus en Petites Quantitats (RPQ)', 'Piles', 'Medicaments',
+          'Altres recollides selectives'
+        ];
 
-    fetch("http://localhost:3000/vertidos")
-      .then((response) => response.json())
-      .then((data) => {
-        data.forEach((vertido) => {
-          if (vertido.Latitud && vertido.Longitud) {
-            const marker = L.marker([vertido.Latitud, vertido.Longitud]).addTo(map);
-            const perillos = vertido["Matèria Perillosa"] ? "Sí" : "No";
-            marker.bindPopup(`
-              <b>Municipi:</b> ${vertido["Terme municipal"]}<br/>
-              <b>Tipus:</b> ${vertido.Tipus}<br/>
-              <b>Perillós:</b> ${perillos}
-            `);
+        // Sumar cantidades totales por tipo de residuo
+        const totales = {};
+        tiposResiduos.forEach(tipo => totales[tipo] = 0);
+
+        datos.forEach(entry => {
+          tiposResiduos.forEach(tipo => {
+            const valor = parseFloat(entry[tipo]) || 0;
+            totales[tipo] += valor;
+          });
+        });
+
+        // Preparar datos para Chart.js
+        const labels = Object.keys(totales);
+        const values = Object.values(totales);
+
+        const ctx = document.getElementById("residuosChart").getContext("2d");
+        new Chart(ctx, {
+          type: "bar",
+          data: {
+            labels: labels,
+            datasets: [{
+              label: "Cantidad total (kg)",
+              data: values,
+              backgroundColor: "rgba(75, 192, 192, 0.6)",
+              borderColor: "rgba(75, 192, 192, 1)",
+              borderWidth: 1
+            }]
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: "Quantitats totals per tipus de residu"
+              },
+              legend: {
+                display: false
+              }
+            },
+            scales: {
+              y: {
+                beginAtZero: true,
+                title: {
+                  display: true,
+                  text: 'Kg'
+                }
+              },
+              x: {
+                ticks: {
+                  maxRotation: 60,
+                  minRotation: 45
+                }
+              }
+            }
           }
         });
-      })
-      .catch((error) => {
-        console.error("Error carregant dades de vertits:", error);
-      });
+
+      } catch (error) {
+        console.error("Error al cargar datos:", error);
+      }
+    }
+
+    cargarDatos();
   </script>
 </body>
 </html>
