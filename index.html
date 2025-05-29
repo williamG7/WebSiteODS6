@@ -435,10 +435,16 @@
 
         </div>
 
-        <div class="water-viz-container">
-            <div id="water-chart" style="width:100%; height:550px;"></div>
-            <div class="water-stats">
-            </div>
+        <div class="visualization-wrapper">
+            <section id="water-section">
+                <h2>Agua Regenerada por Comarca</h2>
+                <div id="water-chart-container" style="margin: 0 auto; width: 80%;">
+                    <div id="water-chart" style="width: 100%; height: 500px;"></div>
+                </div>
+                <div id="water-stats" style="text-align: center; margin-top: 20px;">
+                    <p>Volumen promedio diario de agua regenerada: <span id="daily-volume">0</span> m³</p>
+                </div>
+            </section>
         </div>
 
         <!-- Incluir Leaflet -->
