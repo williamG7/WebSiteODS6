@@ -3,7 +3,7 @@ window.addEventListener("scroll", () => {
   const timeline = document.querySelector(".timeline-container");
   const progressLine = document.querySelector(".timeline-progress");
   const dots = document.querySelectorAll(".timeline-dot");
-  const stopElement = document.querySelector(".div_card"); 
+  const stopElement = document.querySelector(".div_card");
 
   const timelineTop = timeline.getBoundingClientRect().top + window.scrollY;
   const timelineHeight = timeline.offsetHeight;
@@ -20,7 +20,7 @@ window.addEventListener("scroll", () => {
 
   progressLine.style.height = `${progressHeight}px`;
 
- 
+
   dots.forEach(dot => {
     const dotTop = dot.getBoundingClientRect().top;
     if (dotTop < window.innerHeight * 0.8) {
@@ -53,7 +53,7 @@ window.addEventListener("scroll", () => {
 window.addEventListener('scroll', () => {
   const header = document.querySelector('header');
   const mainWrapper = document.querySelector('.main_wrapper');
-  const maxScroll = mainWrapper.offsetHeight; 
+  const maxScroll = mainWrapper.offsetHeight;
   const scrollY = window.scrollY;
 
   let opacity = 0;
@@ -67,3 +67,11 @@ window.addEventListener('scroll', () => {
 
 
 
+
+
+document.addEventListener('DOMContentLoaded', () => {
+  const drops = document.querySelectorAll('.drop .water');
+
+  drops[0].style.setProperty('--water-level', '70%');
+  drops[1].style.setProperty('--water-level', '50%');
+});

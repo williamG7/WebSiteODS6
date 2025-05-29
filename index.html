@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="./style/style.css">
     <link rel="icon" href="./images/logo_p.png" type="image/png">
     <script src="./style/style.js"></script>
+    <script src="/table_embalses.js"></script>
     <title>Agua en Cataluña</title>
 </head>
 
@@ -29,16 +30,16 @@
         </div>
         <nav>
             <ul>
-                <li>ODS 6</li>
-                <li>Problema</li>
-                <li>Analisis</li>
-                <li>Solucion</li>
-                <li>Datasets</li>
+                <li><a href="#ods6">ODS 6</a></li>
+                <li><a href="#problema">Problema</a></li>
+                <li><a href="#analisis">Analisis</a></li>
+                <li><a href="#conclusion">Conclusión</a></li>
+                <li><a href="#datasets">Datasets</a></li>
             </ul>
         </nav>
     </header>
 
-    <section class="sobre_ods">
+    <section id="ods6" class="sobre_ods">
         <p class="titulos">ODS 6</p>
         <div class="conteiner_ods">
             <img src="./images/ods6_img.png" alt="">
@@ -51,7 +52,7 @@
     </section>
 
 
-    <section class="dataset_section">
+    <section id="datasets" class="dataset_section">
         <p class="titulos">DataSets</p>
 
         <div class="timeline-container">
@@ -62,7 +63,8 @@
                 <div class="timeline-card">
                     <h3>Vertidos.csv</h3>
                     <p>Información sobre vertidos de aguas residuales y otros tipos de descargas.</p>
-                    <a href="">Link</a>
+                    <a href="https://analisi.transparenciacatalunya.cat/Medi-Ambient/Cens-d-abocaments-autoritzats-a-Catalunya/rneu-w4f4/about_data"
+                        target="_blank" rel="noopener noreferrer">Link</a>
                 </div>
                 <div class="timeline-dot"></div>
             </div>
@@ -72,7 +74,7 @@
                 <div class="timeline-card">
                     <h3>Residus_recollida.csv</h3>
                     <p>Información sobre la recogida de residuos y su tratamiento.</p>
-                    <a href="">Link</a>
+                    <a href="" target="_blank" rel="noopener noreferrer">Link</a>
                 </div>
             </div>
 
@@ -80,7 +82,8 @@
                 <div class="timeline-card">
                     <h3>Estadistiques.csv</h3>
                     <p>Estadísticas sobre la generación y gestión de residuos a nivel municipal.</p>
-                    <a href="">Link</a>
+                    <a href="https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data"
+                        target="_blank" rel="noopener noreferrer">Link</a>
                 </div>
                 <div class="timeline-dot"></div>
             </div>
@@ -90,7 +93,8 @@
                 <div class="timeline-card">
                     <h3>EstacionsRegeneracio.csv</h3>
                     <p>Información sobre las estaciones de regeneración de agua.</p>
-                    <a href="">Link</a>
+                    <a href="https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estacions-de-regeneraci-d-aigua-p-bliques-de-Catal/5bep-wiuf/about_data"
+                        target="_blank" rel="noopener noreferrer">Link</a>
                 </div>
             </div>
 
@@ -98,7 +102,8 @@
                 <div class="timeline-card">
                     <h3>Embalses.csv</h3>
                     <p>Información sobre los embalses.</p>
-                    <a href="">Link</a>
+                    <a href="https://analisi.transparenciacatalunya.cat/Medi-Ambient/Quantitat-d-aigua-als-embassaments-de-les-Conques-/gn9e-3qhr/about_data"
+                        target="_blank" rel="noopener noreferrer">Link</a>
                 </div>
                 <div class="timeline-dot"></div>
             </div>
@@ -106,7 +111,7 @@
     </section>
 
 
-    <section class="problema_section">
+    <section id="problema" class="problema_section">
         <div class="div_card">
             <p class="titulos titulo_problema">Problema</p>
             <div class="container">
@@ -130,49 +135,80 @@
 
 
 
-        <div class="div_problema">
+        <div id="analisis"  class="div_problema">
             <div>
                 <p class="titulo_analisis">Análisis de la situación del agua en Cataluña</p>
             </div>
+            <div class="wrapper_1">
+                <div class="wrapper_2">
+                    <div class="wrapper_water">
+                        <p class="title">Agua Regenerada diaria</p>
+                        <br>
+                        <br>
+                        <div class="drop">
+                            <div class="water">
+                                <div class="wave"></div>
+                            </div>
+                            <div class="content">
+                                <div class="volume" id="recycled-water-volume">0 m³</div>
+                            </div>
+                        </div>
 
-            <div>
-                <div>
-                    <p>Agua Regenerada y Agua Potable: Producción y Consumo Diario</p>
+                    </div>
+                    <div class="wrapper_water">
+                        <p class="title">Consumo Diario de Agua Potable</p>
+                        <br>
+                        <br>
+                        <div class="drop">
+                            <div class="water">
+                                <div class="wave"></div>
+                            </div>
+                            <div class="content">
+                                <div class="volume" id="recycled-water-volume">117 L/P</div>
+                            </div>
+                        </div>
 
-                    <p></p>
+
+                    </div>
                 </div>
-                <div></div>
+                <div class="text_water">
+                    <p>En Cataluña, cada persona consume aproximadamente 117 litros de agua potable al día, lo que
+                        representa un nivel moderado, considerando el clima y el estilo de vida de la región.
+                        Anualmente, en Cataluña se producen alrededor de 190 hectómetros cúbicos de agua regenerada, una
+                        parte de la cual se reutiliza para la agricultura y la industria. </p>
+                </div>
             </div>
-            <p>1. ¿Qué volumen de agua regenerada se produce diariamente en Cataluña?
-                ¿Cuál es el consumo diario promedio de agua potable?</p>
-            <p>¿Cuál es el consumo medio de agua per cápita? ¿Cómo ha evolucionado este consumo a lo largo del tiempo?
-                Gráficos que muestren la evolución del consumo de agua per cápita a lo largo del tiempo: Visualizar
-                tendencias y patrones en el consumo de agua.</p>
-            <p>Acceso al agua potable y al saneamiento</p>
-            (Información sobre Estadísticas:
-            Tabla con los datos de población, consumo de agua y producción de aguas residuales por año: Permitir a los
-            usuarios consultar datos específicos.)
 
 
-            <p>------------------------------------------------------------------------------------------------------------------------------------------
-            </p>
+            <div class="wrapper_embalses">
+                <p class="title_consumo">Embalses</p>
+                <p> Actualmente, la situación de los recursos hídricos está mejorando: después de varios años de sequía,
+                    las reservas de agua en los embalses han aumentado hasta el 60% de su capacidad total gracias a las
+                    abundantes lluvias.
 
+                    Los embalses recogen el agua de lluvia, acumulándola para su uso en la temporada de verano, cuando
+                    aumenta el consumo y disminuyen las precipitaciones. Estos depósitos abastecen de agua potable a la
+                    población, apoyan la agricultura y la industria. Además, parte del agua almacenada en los embalses
+                    se destina a la recuperación de ríos y ecosistemas naturales, para preservar la biodiversidad.</p>
 
-            <p>2. capaidad de almacenamiento de agua en embalses de cataluña</p>
-            Cuál es la capacidad total de almacenamiento de agua en los embalses? ¿Cuál es el volumen medio de agua
-            almacenada?
-            ¿Cómo se distribuye el agua almacenada entre los distintos embalses? ¿Cómo ha evolucionado el volumen
-            almacenado a lo largo del tiempo?
-            ¿Cuál es el porcentaje de ocupación de los embalses? ¿Hay embalses cercanos a su capacidad máxima o
-            mínima?(colab)
+                <div class="wrapper_table_embalses">
+                    <p>Niveles de Embalses<span class="month-title">Mayo 2025</span></p>
 
-            Información sobre Embalses:
-            Mapa interactivo con la ubicación de los embalses: Mostrar la distribución geográfica de los embalses.
-            Tabla con la información de cada embalse: Incluir nombre, capacidad, volumen actual y coordenadas.
-            Gráficos que muestren la evolución del volumen de agua almacenada en los embalses a lo largo del tiempo:
-            Visualizar tendencias y patrones en el almacenamiento de agua.
-
-
+                    <div class="table-container">
+                        <table id="embalsesTable">
+                            <thead>
+                                <tr>
+                                    <th>Embassament</th>
+                                    <th>Nivell absolut (msnm)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                               
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="div_problema">
@@ -219,10 +255,7 @@
                 directamente la calidad del agua superficial, lo cual representa un riesgo ambiental importante.
             </p>
 
-            <p>Contaminación del agua</p>
-            <p>Contaminación por plásticos: </p>
-            <p>Contaminación por aguas residuales: </p>
-            <p>Contaminación por productos químicos industriales:</p>
+
         </div>
         <!-- Después del fragmento que mencionaste -->
         <div class="div_problema">
@@ -238,7 +271,7 @@
 
         <!-- Incluir tu archivo JS -->
         <script src="mapaVertidos.js"></script>
-        
+
         <h2>Quantitats totals per tipus de residu</h2>
         <div class="chart-container">
             <canvas id="residuosChart"></canvas>
@@ -407,33 +440,44 @@
     </section>
 
 
-    <section class="conclucion_section">
+    <section id="conclusion" class="conclucion_section">
         <p class="titulos">Conclusion</p>
-        <p class="text_conclucion">¿Cómo podría optimizarse el uso del agua regenerada para reducir la dependencia del
-            agua potable convencional?
-            Políticas y medidas adoptadas
-            Cataluña ha tomado varias medidas para afrontar los desafíos en relación al agua, algunas de las cuales
-            incluyen:
+        <p class="text_conclucion"> La situación de los recursos hídricos en Cataluña es compleja, pero está mejorando
+            gradualmente. Después de un período prolongado de sequía, la región ha recuperado las reservas de agua en
+            los embalses hasta el 60%, lo que ha mejorado la disponibilidad de agua. El nivel moderado de consumo de
+            agua potable (117 litros por persona al día) refleja un uso consciente de los recursos.
 
-            Planificación hidrológica: Cataluña tiene planes de gestión del agua, como los planes hidrológicos de
-            cuenca, que buscan gestionar de forma sostenible los recursos hídricos y proteger la calidad del agua.
+            Cataluña está desarrollando activamente tecnologías de regeneración y reutilización del agua, lo que reduce
+            la presión sobre las fuentes tradicionales. Los sistemas de tratamiento funcionan con alta eficiencia,
+            contribuyendo a la reducción de la contaminación y garantizando la sostenibilidad de los ecosistemas.
 
-            Legislación y regulaciones: Existen leyes y regulaciones específicas para controlar la contaminación del
-            agua, como la Ley de Aguas de Cataluña, que establece normas para la protección de las aguas y su uso
-            racional.
-
-            Incentivos para la eficiencia del agua: Se han implementado incentivos para que la industria y la
-            agricultura utilicen tecnologías más eficientes en el uso del agua, como sistemas de riego de precisión y
-            tratamientos avanzados de aguas residuales.
-
-            Educación y concienciación: Se están llevando a cabo programas de sensibilización para promover un uso
-            responsable del agua y la reducción de la contaminación por plásticos.</p>
+            Sin embargo, persisten desafíos relacionados con la concentración de vertidos contaminantes en zonas
+            industriales y el alto nivel de residuos en municipios densamente poblados. Por ello, la gestión sostenible,
+            la mejora tecnológica y las iniciativas educativas siguen siendo clave para avanzar en la mejora de la
+            situación.
+        </p>
     </section>
+    <script>
+        async function loadWaterVolume() {
+            try {
+                const response = await fetch("http://localhost:3000/waterVolume");
+                if (!response.ok) throw new Error("Network response was not ok");
+                const data = await response.json();
 
-    <section class="titulos">
-        <p>primeros dos puntos</p>
-    </section>
+                const volumeElement = document.querySelector('.drop .content .volume');
+                if (volumeElement) {
+                    volumeElement.textContent = data.volume.toLocaleString("es-ES", {
+                        minimumFractionDigits: 2,
+                        maximumFractionDigits: 2
+                    }) + " m³";
+                }
+            } catch (error) {
+                console.error("Error loading water volume:", error);
+            }
+        }
 
+        window.addEventListener('DOMContentLoaded', loadWaterVolume);
+    </script>
 </body>
 <footer>
     <p>DAM1 SOS-Sostenibilitat aplicada al sistema productiu 24/25</p>

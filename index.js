@@ -73,6 +73,31 @@ app.get("/estacionsRegeneracio",(req,res)=>{
     res.json(data);
 });
 
+const calculateWaterVolume = () => {
+    const stations = readEstacionsRegeneracio();
+    if (!stations || stations.length === 0) return 0;
+
+    let totalCurrent = 0;
+
+    stations.forEach(station => {
+        totalCurrent += station["Volum total aigua reutilitzada (m3)"] || 0;
+    });
+
+    const averagePerDay = totalCurrent / 368; 
+    return averagePerDay;
+};
+
+
+ 
+app.get("/waterVolume", (req, res) => {
+    const volume = calculateWaterVolume();
+    res.json({ volume });
+});
+
+
+
+
+
 /*----------------------Embalses-----------------------------*/
 
 const readEmbalses = () => {
