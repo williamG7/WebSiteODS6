@@ -113,14 +113,14 @@ header nav ul li {
 }
 
 nav ul li a {
-    color: white;       
-    text-decoration: none; 
-    font-weight: normal; 
+    color: white;
+    text-decoration: none;
+    font-weight: normal;
     transition: font-weight 0.2s;
 }
 
 nav ul li a:hover {
-    color: #00bfff;     
+    color: #00bfff;
 }
 
 
@@ -412,6 +412,35 @@ body {
 
 }
 
+/*-----------------------------------------------------*/
+.section h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sections-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.main-section {
+    width: 100%;
+}
+
+.subsections-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.section {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
 /*-----------------------------------------------------*/
 
